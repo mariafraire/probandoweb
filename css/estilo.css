@@ -4,6 +4,7 @@
 }
 .hero{
     background-color: burlywood;
+    background: url("../img/persona.jpg") none repeat;
 }
 .future{
     background-color: bisque;

@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    background-color: burlywood;
+}
+.future{
+    background-color: bisque;
+}
+.services{
+    background-color: aquamarine;
+}
+.about{
+    background-color: cadetblue;
+}
+.clients{
+    background-color: coral;
+}
+.news{
+    background-color: darkkhaki;
+}
+.talk{
+    background-color: mediumseagreen;
+}
